@@ -13,7 +13,7 @@
 h1 {
   margin: 0;
   padding: 0;
-  color: #51C8C0;
+  color: #FCF9ED;
   font-family: 'Shadows Into Light', cursive;
 }
 
@@ -43,7 +43,7 @@ p {
 }
 
 body {
-  /* margin: 5rem; */
+  margin:0;
 
   background-color: #0A0A0A;
   

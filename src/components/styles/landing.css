@@ -1,0 +1,10 @@
+.particlebox {
+    position: fixed; 
+    /* margin-top: 2rem; */
+    z-index:-300;
+}
+
+.overlay {
+    z-index: 5;
+    /* background-color: var(--); */
+}

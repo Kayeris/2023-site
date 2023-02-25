@@ -1,0 +1,23 @@
+.navbar {
+    background-color: var(--black);
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.navlink-style {
+    text-decoration-line: none;
+}
+
+.navlinks {
+    color: var(--eggwhite);
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70vw;
+    font-family: 'Nunito';
+    align-items: center;
+}
+
+.nav-icon {
+    height: 3rem;
+    margin-left: 1rem;
+}

@@ -11,11 +11,9 @@ export default function App() {
     <BrowserRouter>
       <Navbar/>
       <Routes>
-        {/* <Route index element={<Landing />} /> */}
         <Route path="blog" element={<Blog />} />
         <Route path="*" element={<NoPage />} />
         <Route path="/" element={<Landing />}>
-
         </Route>
       </Routes>
     </BrowserRouter>
